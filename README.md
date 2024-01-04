@@ -1,5 +1,26 @@
-# Advice-Giver
-# Hosted Here 
+### Deployed
 https://foryousumit.netlify.app/
 
-This webApp made up of 300 advices that changes at click of a dice button
+
+
+### Tech Aspect
+
+Users should be able to:
+
+- View the optimal layout for the app depending on their device's screen size
+- See hover states for all interactive elements on the page
+- Generate a new piece of advice by clicking the dice icon
+
+
+
+
+
+## My process
+
+### Built with
+
+- Semantic HTML5 markup
+- CSS custom properties
+- Flexbox
+- CSS Grid
+- Mobile-first workflow
